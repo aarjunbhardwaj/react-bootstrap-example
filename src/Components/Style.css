@@ -1,0 +1,6 @@
+.first-slide {
+    display: block;
+    height: 100vh;
+    width: 800px !important;
+    padding: 40;
+}
